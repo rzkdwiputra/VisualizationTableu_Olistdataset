@@ -62,3 +62,9 @@ We can add formula at coloumns
 COUNTD([Order Id]) / TOTAL(COUNTD([Order Id]))
 ```
 At the rows we add Payment Type
+
+## Final Look
+<img width="1861" height="989" alt="image" src="https://github.com/user-attachments/assets/e7ec5b3e-d14a-4347-a5bb-63d34ec55ce3" />
+
+
+
